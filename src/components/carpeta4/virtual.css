@@ -1,0 +1,19 @@
+/* components/EntornoVirtual.css */
+h2 {
+    color: #333;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+  }
+  
+  .pre {
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+.titulo{
+    color: #333;
+}

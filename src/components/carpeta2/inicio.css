@@ -1,0 +1,14 @@
+/* components/Inicio.css */
+h2 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  .imagenes img {
+    max-width: 100%;
+    margin-right: 10px;
+  }
+  

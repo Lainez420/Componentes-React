@@ -1,0 +1,30 @@
+/* components/AprenderReact.css */
+
+h2 {
+    color: #ffffff;
+  }
+.p{
+  color: #ffffff;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    color: #ffffff;
+  }
+  
+li {
+    margin-bottom: 10px;
+    
+  }
+  
+pre {
+    background-color: #544f4f;
+    padding: 5px;
+    border-radius: 3px;
+  }
+
+.div{
+    background-color: #333;
+    padding: 20px 0;
+  }
+  
